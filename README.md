@@ -14,7 +14,7 @@
 
 ## Etapas:
 * ### Etapa 1:
-    Na etapa 1 do projeto foi escolhido como produto para análise um sanduiche do McDonalds, mais conhecido como Big Mac.  
+    Na etapa 1 do projeto uma conta de desenvolvedor (@LuccaSanches1) foi criada para que fosse possível coletar dados no Twitter. Além disso, foi escolhido como produto para análise um sanduiche do McDonalds, mais conhecido como Big Mac.  
 
 
 * ### Etapa 2: 
